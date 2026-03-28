@@ -1,7 +1,7 @@
 import pandas as pd
 
 #Import the titanic dataset
-url="https://raw.githubusercontent.com/datasciencedojo/datsets/master/titanic.csv
+url="https://raw.githubusercontent.com/datasciencedojo/datsets/master/titanic.csv"
 df= pd.read_csv(url)
 
 #Show first 5 rows
